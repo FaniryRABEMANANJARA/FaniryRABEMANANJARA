@@ -58,9 +58,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaniryRABEMANANJARA&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FaniryRABEMANANJARA&show_icons=true&theme=dark" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=FaniryRABEMANANJARA&theme=dark"/>
+  <img src="https://streak-stats.demolab.com?user=FaniryRABEMANANJARA&theme=dark" />
 </p>
 
 ---
