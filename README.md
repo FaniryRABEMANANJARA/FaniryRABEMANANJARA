@@ -19,7 +19,7 @@
 
 ✨ Full Stack Developer specialized in scalable web applications  
 🎓 Master II in AI & Big Data Management – ESTIA (Bordeaux)  
-🌍 Based in Guangzhou, China  
+🌍 Based in Madagascar, Antananarivo  
 🚀 Experienced in SaaS platforms, fintech tools & permit management systems  
 
 ---
